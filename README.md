@@ -8,7 +8,7 @@ Features:
 
 -Long Press Stock to delete stock 
 
--Tap on Stock to open browser displaying stock's data or information via Stock Market site
+-Tap on Stock to open browser displaying stock's data or information via Stock Market Watch site
 
 -Swipe down to referesh stock(s) data  
 
