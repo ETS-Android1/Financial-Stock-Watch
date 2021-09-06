@@ -6,10 +6,14 @@ Allowing users to monitor user's saved stock preferences. Live updates of stocks
 
 Features:
 
--Long Press Stock to delete stock 
+-Long press stock to delete stock 
 
--Tap on Stock to open browser displaying stock's data or information via Stock Market Watch site
+-Tap on stock to open default browser displaying stock's data or information via Stock Market Watch site
 
 -Swipe down to referesh stock(s) data  
 
 -Add/Search for stock user input 
+
+
+NOTE: 
+-Remove .gradle and build folder to build if error 
