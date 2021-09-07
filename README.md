@@ -1,8 +1,8 @@
 # Financial-Stock-Watch
 
-Financial Stock Android Application
+Financial Stock Android Application (Android Studio) 
 
-Allowing users to monitor user's saved stock preferences. Live updates of stocks' data from IEX Cloud via JSON.
+Allowing users to monitor user's saved stock preferences. Live updates of stock(s)' data from IEX Cloud via JSON.
 
 Features:
 
