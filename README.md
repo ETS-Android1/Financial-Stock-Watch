@@ -3,7 +3,7 @@
 Financial Stock Android Application (Android Studio) 
 
 Allowing users to monitor user's saved stock preferences. Live updates of stock(s)' data from IEX Cloud REST API Calls.
-This application is made using only 1 activity screen and implemented "RecyclerView & SwipRefreshLayout". 
+This application is made using 1 activity screen and implemented "RecyclerView & SwipRefreshLayout". 
 
 Features:
 
