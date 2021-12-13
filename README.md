@@ -7,17 +7,30 @@ This is application is made using only 1 activity screen.
 
 Features:
 
--Add/Search for specific stock(s) data 
+-Search/Select/Add for specific stock(s) data-
+Adding a specifict stock
 ![Add](ReadMeImages/Add.png)
 
+Allows stock selection based on input
+![Select](ReadMeImages/Selection.png)
 
--Long press stock to delete stock 
+Preventing adding duplicate stocks 
+![Duplicate](ReadMeImages/Duplicate.png)
 
--Tap on stock to open default browser displaying stock's data or information via Stock Market Watch site
+Not found SYOMBOL 
+![Notfound](ReadMeImages/NotFound.png)
 
--Swipe down to referesh stock(s) data  
+-Network connection check-
+![Connection](ReadMeImages/Connection.png)
 
--Add/Search for stock user input 
+-Long press stock to delete stock-
+![Delete](ReadMeImages/Delete.png)
+
+-Tap on stock to open default browser displaying stock's data or information via Stock Market Watch site-
+![Watch](ReadMeImages/Watch.png)
+
+-Swipe down to referesh stock(s) data-
+
 
 
 NOTE: 
