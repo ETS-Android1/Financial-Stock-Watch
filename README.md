@@ -11,7 +11,6 @@ Features:
 
 Adding a specifict stock
 ![Add](ReadMeImages/Add.png)
-<img src="ReadMeImages/Add.png" width="450" height="450">
 
 Allows stock selection based on input
 ![Select](ReadMeImages/Selection.png)
