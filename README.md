@@ -8,6 +8,7 @@ This application is made using only 1 activity screen.
 Features:
 
 -Search/Select/Add for specific stock(s) data-
+
 Adding a specifict stock
 ![Add](ReadMeImages/Add.png)
 
