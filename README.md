@@ -2,9 +2,14 @@
 
 Financial Stock Android Application (Android Studio) 
 
-Allowing users to monitor user's saved stock preferences. Live updates of stock(s)' data from IEX Cloud via JSON.
+Allowing users to monitor user's saved stock preferences. Live updates of stock(s)' data from IEX Cloud REST API Calls.
+This is application is made using only 1 activity screen.
 
 Features:
+
+-Add/Search for specific stock(s) data 
+![Add]()
+
 
 -Long press stock to delete stock 
 
