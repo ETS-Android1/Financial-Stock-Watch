@@ -8,7 +8,7 @@ This is application is made using only 1 activity screen.
 Features:
 
 -Add/Search for specific stock(s) data 
-![Add]()
+![Add](ReadMeImages/Add.png)
 
 
 -Long press stock to delete stock 
